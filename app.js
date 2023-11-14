@@ -10,5 +10,5 @@ const app=express();
 
 
 app.listen(port,async()=>{
-    console.log('Server Started Now!!')
+    console.log('Server Started Now!!');
 })
