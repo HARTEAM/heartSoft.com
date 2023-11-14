@@ -4,11 +4,11 @@
   "description": "Company Website for heartSoft.tech",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "Noel joel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "mongodb": "^6.2.0"
   }
 }
